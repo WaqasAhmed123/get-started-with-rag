@@ -1,0 +1,8 @@
+Machine Learning Introduction
+
+Machine Learning is a subset of Artificial Intelligence that enables systems to learn from data.
+
+Key Concepts:
+- Supervised Learning
+- Unsupervised Learning
+- Reinforcement Learning
